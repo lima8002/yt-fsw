@@ -41,3 +41,15 @@ npx prisma db seed
 ```bash
 npm install -D ts-node@10.9.2
 ```
+
+## shadcn/ui @ version 2.3.0
+
+```bash
+npx shadcn@2.3.0 init
+```
+
+- Install button
+
+```bash
+npx shadcn@2.3.0 add button
+```
