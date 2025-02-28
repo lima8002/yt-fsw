@@ -38,10 +38,24 @@ npx prisma migrate dev --name initial
 npx prisma db seed
 ```
 
-## TS-Node @ version 10.9.2
+## DevDependencies
+
+- TS-Node @ version 10.9.2
 
 ```bash
 npm install -D ts-node@10.9.2
+```
+
+- eslint-plugin-simple-import-sort@12.1.1
+
+```bash
+npm install -D eslint-plugin-simple-import-sort@12.1.1
+```
+
+- prettier plug in
+
+```bash
+npm install -D prettier prettier-plugin-tailwindcss
 ```
 
 ## shadcn/ui @ version 2.3.0
